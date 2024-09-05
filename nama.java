@@ -1,7 +1,7 @@
 /**
  * tugas
  */
-public class tugas {
+public class nama {
 
     public static void main(String[] args) {
         System.out.println("-------------------------------------------------------");
