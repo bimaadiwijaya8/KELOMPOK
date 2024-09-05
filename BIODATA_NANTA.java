@@ -1,7 +1,7 @@
 /**
  * tugas
  */
-public class nama {
+public class BIODATA_NANTA {
 
     public static void main(String[] args) {
         System.out.println("-------------------------------------------------------");
